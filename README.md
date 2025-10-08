@@ -134,8 +134,8 @@ House Price Prediction/
 
 **Team:**
 - [Poojan Patel B.] - [poojanpatel.24.ce@iite.indusuni.in]
-- [Dhruv Nesadiya] - [friend.email@example.com]
+- [Dhruv Nesadiya] - [dhruvnesadiya.24.ce@iite.indusuni.ac.in]
 
 ---
 
-Made with ❤️ by [Your Team Name]
+
