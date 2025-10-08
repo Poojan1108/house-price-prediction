@@ -1,7 +1,4 @@
-# House Pr## 📊 Dataset
-
-**File:** USA_Housing.csv (Housing Dataset)  
-**Records:** 5000+ propertiesPrediction - Technical Analysis
+# House Price Prediction - Technical Analysis
 
 ## 🎯 Project Goal
 
@@ -11,9 +8,9 @@ Build a Machine Learning model to predict house prices accurately based on prope
 
 ---
 
-## � Dataset
+## 📊 Dataset
 
-**File:** USA_Housing.csv  
+**File:** USA_Housing.csv (Housing Dataset)  
 **Records:** 5000+ properties  
 
 ### Features We Used:
